@@ -3,8 +3,6 @@
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MadisonMadi&count_private=true&include_all_commits=true&show_icons=true&theme=radical&icon_color=fff&hide_border=true">
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MadisonMadi&theme=radical&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op">
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MadisonMadi&theme=radical&hide_border=true">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
