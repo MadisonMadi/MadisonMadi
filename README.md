@@ -7,15 +7,12 @@
 <img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
 <img width="50%" align="right" src="https://activity-graph.herokuapp.com/graph?username=MadisonMadi&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true">
 
-
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/Python-0078D6?style=for-the-badge&logo=python&logoColor=white)
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![](https://img.shields.io/badge/Kali-339933?style=for-the-badge&logo=kalilinux&logoColor=white)
 
 ## IDEs
 ![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
