@@ -7,6 +7,8 @@
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
 ![](https://img.shields.io/badge/Python-0078D6?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/SkriptLang-%23cc44ff?style=for-the-badge&logo=sk.&logoColor=white&link=https%3A%2F%2Fgithub.com%2FSkriptLang)
+
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
