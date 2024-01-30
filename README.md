@@ -1,6 +1,6 @@
 <img src="https://cdn.discordapp.com/attachments/485199441767432193/1201905832795844669/minecraft_title.png?ex=65cb8508&is=65b91008&hm=c154166ca714a699160c6a39eb74856fdf86c623a879ac9fff2d6bea55c4d00b&" style="display: block; margin-right: auto; margin-left: auto;">
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ultimating&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Madison&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
 
 ## Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
