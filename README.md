@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/485199441767432193/1251297507301003294/minecraft_title.png?ex=666e111d&is=666cbf9d&hm=da25c65c4e6dbdb1cfbf848cbae598fa4f624d9a4240db2faf215ed43a1e3a30&" style="display: block; margin-right: auto; margin-left: auto;">
+<img src="https://cdn.discordapp.com/attachments/485199441767432193/1356382104702816326/minecraft_title.png?ex=67ec5cc6&is=67eb0b46&hm=3c6086af2edb41341cd6040cb6d9964a1a689830784fb2438e2be6c5db14838a&" style="display: block; margin-right: auto; margin-left: auto;">
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MadisonMadi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 
