@@ -4,7 +4,6 @@
 
 # Languages
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
-![](https://img.shields.io/badge/SkriptLang-FF6666?style=for-the-badge)
 
 ## OSs
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
