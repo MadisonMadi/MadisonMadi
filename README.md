@@ -1,17 +1,29 @@
-<img src="https://cdn.discordapp.com/attachments/485199441767432193/1356382104702816326/minecraft_title.png?ex=67ec5cc6&is=67eb0b46&hm=3c6086af2edb41341cd6040cb6d9964a1a689830784fb2438e2be6c5db14838a&" style="display: block; margin-right: auto; margin-left: auto;">
+<br clear="both">
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=MadisonMadi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<div align="center">
+  <img height="150" src="https://media.discordapp.net/attachments/485199441767432193/1356382104702816326/minecraft_title.png?ex=686aecc6&is=68699b46&hm=774e251a7d5aa6839fdf167c5b6f714ef939e4967725b171cf1fcbac6ae9b555&="  />
+</div>
 
-# Languages
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=black)
+###
 
-## OSs
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MadisonMadi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+</div>
 
-## IDEs
-![](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+###
 
-## Frameworks
-![](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoWidth=25)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="4" width="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="4" width="50" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="4" width="50" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="4" width="50" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="4" width="50" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="4" width="50" alt="vscode logo"  />
+</div>
 
+###
