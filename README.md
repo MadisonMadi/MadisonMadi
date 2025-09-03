@@ -1,5 +1,5 @@
 <br clear="both">
 
 <div align="center">
-  <img height="150" src="https://media.discordapp.net/attachments/485199441767432193/1356382104702816326/minecraft_title.png?ex=686aecc6&is=68699b46&hm=774e251a7d5aa6839fdf167c5b6f714ef939e4967725b171cf1fcbac6ae9b555&="  />
+  <img height="166" alt="minecraft_title" src="https://github.com/user-attachments/assets/0dc8c75a-0ad5-44e2-8b8c-eb02325547e0" />
 </div>
